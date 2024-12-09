@@ -1,0 +1,1093 @@
+{
+  "category": {
+    "General": [
+     {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+           
+            "title": "As Jimmy Carter nears 100, he is buoyed by Harris’s run for president",
+            "description": "As Jimmy Carter’s 100th birthday approaches on Oct. 1, he is talking more and delighting in the momentum behind Vice President Kamala Harris, his family said.",
+            "url": "https://www.washingtonpost.com/politics/2024/09/06/jimmy-carter-kamala-harris-100-birthday/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5HKGHSPZCOEFXKWFJZ6YCAVHTE.JPG&w=1440",
+            "publishedAt": "2024-09-06T10:00:41Z"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+           
+            "title": "Kamala Harris ran her office like a prosecutor. Not everyone liked that.",
+            "description": "After a difficult first year as vice president, Harris has grown into her role — and found staff who respond better to her style, allies say",
+            "url": "https://www.washingtonpost.com/politics/2024/09/06/harris-veep-boss-management/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IYBKDJV6L4I6XERKYQGJO5F4JA.jpg&w=1440",
+            "publishedAt": "2024-09-06T10:00:29Z"
+        },
+         {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+           
+            "title": "D.C. lobbyists battle over future of the Orthodox Church in Ukraine",
+            "description": "Critics say Kyiv is attacking religious freedom in its efforts to break the Ukrainian Orthodox Church’s ties with Moscow. Ukraine says it’s acting in self-defense.",
+            "url": "https://www.washingtonpost.com/world/2024/09/06/orthodox-church-ukraine-moscow-lobbying/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UDTBJYCC4TJFIUE5HKW4AIH2Y.JPG&w=1440",
+            "publishedAt": "2024-09-06T09:00:00Z"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+         
+            "title": "Suspect in Georgia school shooting to make first court appearance",
+            "description": "Colt Gray, 14, is scheduled to appear virtually before a judge, hours after his father was arrested and charged in the case.",
+            "url": "https://www.washingtonpost.com/nation/2024/09/06/colt-gray-arraignment-georgia-shooting-suspect/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O76SS2OE7HSITWBM27Z4IDYSEQ_size-normalized.jpg&w=1440",
+            "publishedAt": "2024-09-06T11:43:14Z"
+          
+        },
+        {
+        "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+     
+      "title": "Sailboat sinks off Sicily with several people missing, Italian media reports",
+      "description": "A local business owner said he noticed the moored vessel disappeared in a storm.",
+      "url": "https://abcnews.go.com/International/superyacht-sailboat-sinks-sicily-people-missing-italian-media/story?id=112939295",
+      "urlToImage": "https://s.abcnews.com/images/General/Breaking-News-banner-abc-ps-181024_hpMain_16x9_992.jpg?w=1600",
+
+     "publishedAt": "2024-08-19T08:39:00Z"
+   
+      },
+      {
+       "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            
+            "title": "US and South Korea begin joint military drills as North Korea accuses them of invasion rehearsal",
+            "description": "The large-scale exercise is an effort to strengthen their combined defense.",
+            "url": "https://abcnews.go.com/International/wireStory/us-south-korea-begin-joint-military-drills-north-112935218",
+            "urlToImage": "https://i.abcnewsfe.com/a/9fddb189-d2b8-485a-a175-352319836445/wirestory_13d96116dee891e28c5a92a8f0104a4d_16x9.jpg?w=1600",
+            "publishedAt": "2024-08-19T00:12:28Z"
+      },
+      {
+        "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            
+            "title": "Perdue Farms recalls over 167,000 pounds of chicken products due to potential metal contamination",
+            "description": "The recall affects three products with best-used-by dates of March 23, 2025.",
+            "url": "https://abcnews.go.com/GMA/Food/perdue-farms-recalls-chicken-products-potential-metal-contamination/story?id=112930803",
+            "urlToImage": "https://i.abcnewsfe.com/a/72cf5d92-908f-47ab-a3ed-ee9a014ab696/perdue-recall-fda-ht-lv-240818-4_1724004018303_hpMain_16x9.JPG?w=1600",
+            "publishedAt": "2024-08-18T19:02:44Z"
+           
+      },
+      {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+           
+            "title": "‘It felt like Gaza’: Major Israeli military operation in West Bank enters second week",
+            "description": "Residents of Jenin, in the occupied West Bank, are taking stock after nine days of what they say has been the most intense and sustained Israeli military operation in their city since October 7.",
+            "url": "https://www.cnn.com/2024/09/06/middleeast/israeli-military-operation-jenin-west-bank-enters-second-week-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2169666225.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-09-06T08:56:57Z"
+        },
+      {
+        "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            
+            "title": "Multiple suspects open fire in Baltimore mass shooting, leaving 1 dead and 7 injured",
+            "description": "One person was killed and seven others wounded in a mass shooting in east Baltimore on Sunday night, police said.",
+            "url": "https://www.cnn.com/2024/08/19/us/baltimore-mass-shooting-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/screenshot-2024-08-19-at-08-40-copy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-08-19T07:53:25Z"
+      },
+      {
+        "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+           
+            "title": "See what steps law enforcement is taking to beef up security ahead of DNC | CNN Politics",
+            "description": "Local and federal law enforcement officials are working to ensure Chicago is prepared as Democrats descend on the city for the party’s convention. CNN’s Whitney Wild reports on the security tools officials are using.",
+            "url": "https://www.cnn.com/2024/08/18/politics/video/dnc-security-measures-law-enforcement-retaliation-concerns-wild-pkg-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20872910-33721-666999999994-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-08-19T00:45:38.681Z"
+          
+      },
+      {
+         "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+           
+            "title": "Indian American Muslim group cancels parade participation amid float controversy",
+            "description": "A group representing Indian American Muslims has withdrawn its float from New York City’s annual India Day Parade on Sunday following controversy over the inclusion of a float they say shows anti-Muslim bias.",
+            "url": "https://www.cnn.com/2024/08/18/us/india-day-parade-new-york/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24022264190466.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-08-18T17:11:09Z"
+      },
+      {
+       "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+           
+            "title": "More than $1.6 million worth of cocaine washed up on Florida beaches during Hurricane Debby, authorities say",
+            "description": "Hurricane Debby left behind not only a trail of deadly destruction in the Southeast last week but also more than 100 pounds of narcotics that were discovered along Florida’s shores, authorities say.",
+            "url": "https://www.cnn.com/2024/08/18/us/hurricane-debby-florida-beaches-cocaine/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/border-patrol.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-08-18T08:03:49Z"
+      },
+      {
+        "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            
+            "title": "Ron 'Buck Shot' Barge, longtime Calgary children's TV star, dies at 87 | CBC News",
+            "description": "Starting in 1967, at least a couple of generations of Calgarians grew up watching Buck Shot and his sidekick, Benny the Bear, on TV.",
+            "url": "http://www.cbc.ca/news/canada/calgary/calgary-ron-barge-buck-shot-dies-1.7297836",
+            "urlToImage": "https://i.cbc.ca/1.7297875.1723996690!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/buck-shot.jpg",
+            "publishedAt": "2024-08-19T09:22:26.0582261Z"
+      },
+      {
+       "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+           
+            "title": "How did divers manage to blow up the Nord Stream pipeline? We went down to the spot to find out | CBC News",
+            "description": "To understand how the Nord Stream pipeline attack in September 2022 might have occurred, German public broadcaster ARD chartered the very yacht the perpetrators allegedly used and sent divers into the roiling waters of the Baltic Sea.",
+            "url": "http://www.cbc.ca/news/investigates/nord-stream-pipeline-explosion-ukraine-diver-1.7296527",
+            "urlToImage": "https://i.cbc.ca/1.7296611.1723825915!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/divers.jpg",
+            "publishedAt": "2024-08-19T09:22:24.9803709Z"
+      },
+      {
+        "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            
+            "title": "Ernesto to bring rain and moderate winds to southeast Newfoundland | CBC News",
+            "description": "Environment Canada’s latest update on the hurricane says it’s expected to track mostly offshore, bringing some rain to the Avalon and possibly the Burin and Bonavista peninsulas.",
+            "url": "http://www.cbc.ca/news/canada/newfoundland-labrador/ernesto-hurricane-wind-rain-newfoundland-1.7297809",
+            "urlToImage": "https://i.cbc.ca/1.7297812.1723989121!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ernesto-track.jpg",
+            "publishedAt": "2024-08-19T09:22:23.402639Z"
+      }
+
+    ],
+    "Technology": [
+      {
+         "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            
+            "title": "Meteorites give the Moon its extremely thin atmosphere",
+            "description": "Impacts that vaporize bits of the lunar surface maintain the Moon's thin atmosphere.",
+            "url": "https://arstechnica.com/science/2024/08/meteorites-give-the-moon-its-extremely-thin-atmosphere/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/image-2-760x380.png",
+            "publishedAt": "2024-08-17T11:05:12+00:00"
+      },
+      {
+        "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+           
+            "title": "Judge calls foul on Venu, blocks launch of ESPN-Warner-Fox streaming service",
+            "description": "Upcoming launch of $42.99 sports package likely to \"substantially lessen competition.\"",
+            "url": "https://www.ft.com/content/4316c318-b4d8-4042-81fe-3800a071fd83",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/hookedem-760x380.jpg",
+            "publishedAt": "2024-08-17T03:15:22+00:00"
+      },
+      {
+         "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            
+            "title": "Chinese social media users hilariously mock AI video fails",
+            "description": "TikTok and Bilibili users transform nonsensical AI glitches into real-world performance art.",
+            "url": "https://arstechnica.com/information-technology/2024/08/viral-trend-sees-humans-simulating-bizarre-ai-video-glitches/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/ai_video_imitation_2-760x380.jpg",
+            "publishedAt": "2024-08-16T19:09:03+00:00"
+      }, {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+           
+            "title": "Veeam patches multiple critical remote code execution flaws",
+            "description": "The company fixed a total of 18 flaws recently",
+            "url": "https://www.techradar.com/pro/security/veeam-patches-multiple-critical-remote-code-execution-flaws",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/XztdngjRmFS6xK2nNWp7Nm-1200-80.jpg",
+            "publishedAt": "2024-09-06T13:03:00Z"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            
+            "title": "Netflix is getting two very different documentaries soon and I've already cried after watching one of the trailers",
+            "description": "Will Ferrell's emotional new documentary had me tearing up in minutes",
+            "url": "https://www.techradar.com/streaming/netflix/netflix-is-getting-two-very-different-documentaries-soon-and-ive-already-cried-after-watching-one-of-the-trailers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/oTA6eAvzYGAi5PtT78pvML-1200-80.jpg",
+            "publishedAt": "2024-09-06T12:37:37Z"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            
+            "title": "Mystery database containing sensitive info on 762,000 car-owners discovered by researchers",
+            "description": "Someone has been gathering information on Chinese drivers",
+            "url": "https://www.techradar.com/pro/security/mystery-database-containing-sensitive-info-on-762-000-car-owners-discovered-by-researchers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/GcQXTy4NBXKeoop4V5WQnQ-1200-80.jpg",
+            "publishedAt": "2024-09-06T12:34:00Z"
+        },
+         {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+           
+            "title": "Google’s 4th-Gen Nest Learning Thermostat Isn’t Just Pretty (but It’s Also Very Pretty)",
+            "description": "Nine years after its predecessor debuted, the fourth-generation Nest Learning Thermostat blends beauty with smarts.",
+            "url": "https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/",
+            "urlToImage": "https://media.wired.com/photos/66d6341f38451408084a9ca1/191:100/w_1280,c_limit/Nest-Learning-Thermostat-(4th-Gen)-Abstract-Background-SOURCE-Google.jpg",
+            "publishedAt": "2024-09-06T12:22:24.0333045Z"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            
+            "title": "The Death of ‘Concord’ Offers a Bleak Look at Gaming’s Future",
+            "description": "After eight years of development, Sony pulled the plug on “Concord” today after just two weeks. Fans loved it, but seemingly not enough. Is the future of the industry blockbuster-or-bust?",
+            "url": "https://www.wired.com/story/concord-death-future-of-video-games-bleak/",
+            "urlToImage": "https://media.wired.com/photos/66d87a4413edc82cb95b7456/191:100/w_1280,c_limit/Death-of-Concord-Concord-Beta%20Screenshot-(2)-Culture.jpg",
+            "publishedAt": "2024-09-06T11:30:00Z"
+        },
+      {
+         "source": {
+                "id": "hacker-news",
+                "name": "Hacker News"
+            },
+            
+            "title": "Tests aren’t enough: Case study after adding type hints to urllib3",
+            "description": "Since Python 3.5 was released in 2015 including PEP 484 and the typing module type hints have grown from a nice-to-have to an expectation for popular packages.  To fulfill this expectation our team...",
+            "url": "https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3",
+            "urlToImage": "http://sethmlarson.dev/static/avatar.jpeg",
+            "publishedAt": "2021-10-18T16:52:18.1226466Z"
+      },
+      {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            
+            "title": "Catan: New Energies Is Caught in a Climate Crisis",
+            "description": "This thoughtful twist on the classic board game illustrates fossil fuel impact on climate change, but it’s also fun.",
+            "url": "https://www.wired.com/review/catan-new-energies/",
+            "urlToImage": "https://media.wired.com/photos/66c01aab5f6fad4d943f1278/191:100/w_1280,c_limit/Catan-New-Energies-Board-Game-Reviewer-Collage-082024-SOURCE-Simon-Hill.jpg",
+            "publishedAt": "2024-08-18T15:37:14.4731463Z"
+      },
+      {
+           "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            
+            "title": "The Galaxy Ring Draws Strength From Your Galaxy Watch",
+            "description": "Samsung’s newest fitness wearable works seamlessly with its Galaxy smartphones and Galaxy Watches.",
+            "url": "https://www.wired.com/review/samsung-galaxy-ring/",
+            "urlToImage": "https://media.wired.com/photos/66c0150cc682f945b4b584f7/191:100/w_1280,c_limit/Samsung-Galaxy-Ring-Reviewer-Collage-082024-SOURCE-Adrienne-So.jpg",
+            "publishedAt": "2024-08-18T12:22:16.8323966Z"
+      },
+      {
+        "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            
+            "title": "The Slow-Burn Nightmare of the National Public Data Breach",
+            "description": "Social Security numbers, physical addresses, and more—all available online. After months of confusion, leaked information from a background check firm underscores the long-term risks of data breaches.",
+            "url": "https://www.wired.com/story/national-public-data-breach-leak/",
+            "urlToImage": "https://media.wired.com/photos/66be44e1e5e0286b239ff7ec/191:100/w_1280,c_limit/Data-Leak-Sec-129310449.jpg",
+            "publishedAt": "2024-08-16T18:31:13Z"
+      },
+      {
+        "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+           
+            "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+            "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+            "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+            "publishedAt": "2023-06-22T11:21:08Z"
+      },
+      {
+         "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+           
+            "title": "Mobility giant Bolt adopts self-driving Starship robots for food delivery",
+            "description": "Bolt plans to roll out thousands of the robots across multiple countries, starting in its home city of Tallinn later this year.",
+            "url": "http://thenextweb.com/news/mobility-giant-bolt-adopts-self-driving-starship-robots-for-food-delivery",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2Fbolt-starship-robot-delivery.jpg&signature=c902ce701ce95e20f6fd703a50ad52ca",
+            "publishedAt": "2023-06-22T09:17:15Z"
+      },
+      {
+          "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            
+            "title": "This startup gives your speech a new 'human-realistic' AI voice — for free",
+            "description": "From virtual assistants to voiceovers for audiobooks, AI voice generation has emerged as a rapidly growing field — and it’s no wonder that companies are rushing to tap into the ...",
+            "url": "http://thenextweb.com/news/this-startup-gives-your-speech-new-human-realistic-ai-voice-for-free",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-10.jpg&signature=00f248c68c2b3cfc8673a040d6097c35",
+            "publishedAt": "2023-06-21T13:30:20Z"
+      }
+
+    ],
+    "Business": [
+      {
+        "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            
+            "title": "Prabowo Subianto visit: Albanese reaches out early to Indonesia’s new president",
+            "description": "Prabowo Subianto has been touring key regional capitals ahead of his elevation in October to Jakarta’s top job.",
+            "url": "http://www.afr.com/politics/federal/albanese-reaches-out-early-to-indonesia-s-new-president-20240819-p5k3g1",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.2337%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_354%2C$y_9/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/4ddd202fc186b06a7e2f629f6095dd41981bdda0",
+            "publishedAt": "2024-08-19T08:34:56Z"
+      },
+      {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            
+            "title": "US border patrol agents interrogating Chinese TikTok employees: report",
+            "description": "Border patrol agents are asking TikTok employees about any ties to the Chinese Communist Party, Forbes reports.",
+            "url": "http://www.businessinsider.com/us-border-patrol-agents-interrogating-chinese-tiktok-employees-report-2024-4",
+            "urlToImage": "https://i.insider.com/66314931ec0c696569ff497b?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T20:43:56Z"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+           
+            "title": "Radio usage remains surprisingly high because of cars",
+            "description": "The internet is killing TV, and it will get to radio. But not quite yet.",
+            "url": "http://www.businessinsider.com/radio-usage-nielsen-cars-streaming-spotify-2024-4",
+            "urlToImage": "https://i.insider.com/663137b710dfcda40964f9f9?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T19:25:58Z"
+        },
+       {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+           
+            "title": "China Detains Two Activists, Adding to Tension With Washington",
+            "description": "The recent arrests of a citizen journalist and an artist come as the U.S. and Beijing seek to stabilize ties",
+            "url": "https://www.wsj.com/world/china/china-detains-two-activists-adding-to-tension-with-washington-75942693?mod=hp_lista_pos3",
+            "urlToImage": "https://images.wsj.net/im-74383065/social",
+            "publishedAt": "2024-09-06T10:42:00Z"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            
+            "title": "One Bargain You Can’t Find at Costco Is Its Stock—Does That Matter?",
+            "description": "Charlie Munger’s ‘perfect damn’ retailer is as high quality as it gets, but history points to disappointment even for great companies",
+            "url": "https://www.wsj.com/finance/stocks/one-bargain-you-cant-find-at-costco-is-its-stockdoes-that-matter-46cad37f?mod=hp_lead_pos6",
+            "urlToImage": "https://images.wsj.net/im-81218709/social",
+            "publishedAt": "2024-09-06T09:30:00Z"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            
+            "title": "Testosterone Clinics Sell Virility. Some Men End Up With Infertility.",
+            "description": "Promoters in the booming steroid business tout a boost in the gym and the bedroom, but few talk about the possible side effects",
+            "url": "https://www.wsj.com/health/healthcare/testosterone-clinics-telehealth-steroids-474835d5?mod=hp_lead_pos7",
+            "urlToImage": "https://images.wsj.net/im-30187115/social",
+            "publishedAt": "2024-09-06T01:00:00Z"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            
+            "title": "Columbia divestment protests worked before. This time may be different.",
+            "description": "In 1985, Columbia students protested for the school to divest from South Africa. The recent outcry over Israel's war in Gaza has many similarities.",
+            "url": "http://www.businessinsider.com/columbia-protest-demand-israel-divest-gaza-history-2024-4",
+            "urlToImage": "https://i.insider.com/66315bf2ec0c696569ff5c6c?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T21:00:58Z"
+        },
+      {
+        "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+           
+            "title": "Columbia divestment protests worked before. This time may be different.",
+            "description": "In 1985, Columbia students protested for the school to divest from South Africa. The recent outcry over Israel's war in Gaza has many similarities.",
+            "url": "http://www.businessinsider.com/columbia-protest-demand-israel-divest-gaza-history-2024-4",
+            "urlToImage": "https://i.insider.com/66315bf2ec0c696569ff5c6c?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T21:00:58Z"
+      },
+      {
+        "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+           
+            "title": "‘Dangerous’: Federal Labor MP Josh Burns slams CFMEU for threatening Hakoah Club in Sydney",
+            "description": "Josh Burns said conflating an industrial relations issue with the Israel-Palestine conflict was “divisive and dangerous”.",
+            "url": "http://www.afr.com/politics/dangerous-labor-mp-slams-cfmeu-for-threatening-jewish-club-20240819-p5k3js",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_1%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/912299fe2de9085f3437174919dbcd2bbbbc85eb",
+            "publishedAt": "2024-08-19T06:37:34Z"
+      },
+      {
+        "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            
+            "title": "Future Made in Australia bill draws in caravan and chocolate makers seeking subsidies",
+            "description": "Caravan manufacturers, chocolate makers, software developers and native titleholders are among the slew of interest groups putting their hands out for taxpayer support.",
+            "url": "http://www.afr.com/policy/economy/caravan-and-chocolate-makers-line-up-for-made-in-australia-billions-20240815-p5k2qy",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/b40a8ab51334a9a9b8d420c654fdf60a9ace939a",
+            "publishedAt": "2024-08-19T06:00:00Z"
+      },
+      {
+        "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            
+            "title": "US border patrol agents interrogating Chinese TikTok employees: report",
+            "description": "Border patrol agents are asking TikTok employees about any ties to the Chinese Communist Party, Forbes reports.",
+            "url": "http://www.businessinsider.com/us-border-patrol-agents-interrogating-chinese-tiktok-employees-report-2024-4",
+            "urlToImage": "https://i.insider.com/66314931ec0c696569ff497b?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T20:43:56Z"
+      },
+      {
+        "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            
+            "title": "Radio usage remains surprisingly high because of cars",
+            "description": "The internet is killing TV, and it will get to radio. But not quite yet.",
+            "url": "http://www.businessinsider.com/radio-usage-nielsen-cars-streaming-spotify-2024-4",
+            "urlToImage": "https://i.insider.com/663137b710dfcda40964f9f9?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T19:25:58Z"
+      },
+      {
+          "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+           
+            "title": "GM and Ford's gas-powered profits are a problem for Tesla's EV slowdown",
+            "description": "Companies like GM and Ford can rely on hybrids and gas-powered cars to get through the EV slowdown. Tesla can't do that.",
+            "url": "http://www.businessinsider.com/tesla-challenges-amid-hybrid-craze-ford-gm-gas-profits-2024-4",
+            "urlToImage": "https://i.insider.com/66312fcf0dfb1341e900d02b?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T18:42:46Z"
+      },
+      {
+          "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            
+            "title": "Billionaire Cloudflare CEO's lawsuit over neighbors' dogs getting wild",
+            "description": "Matthew Prince's neighbors say the lawsuit is retaliation for opposing his plans to build his dream home in the ritzy ski town.",
+            "url": "http://www.businessinsider.com/billionaire-cloudflare-ceos-lawsuit-over-neighbors-dogs-getting-wild-2024-4",
+            "urlToImage": "https://i.insider.com/66311ab710dfcda40964e6cd?width=1200&format=jpeg",
+            "publishedAt": "2024-04-30T18:35:22Z"
+      },
+      {
+        "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+           
+            "title": "Trudeau mulls name-and-shame policy to crack down on foreign worker abuse",
+            "description": "The federal government is thinking aabout publicly naming individual business managers or owners who violate Canada’s labour rules. Read on.",
+            "url": "https://financialpost.com/fp-work/trudeau-mulls-name-shame-curb-foreign-worker-abuse",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/05/service-employees-international-union-seiu-convention.jpg",
+            "publishedAt": "2024-08-16T16:12:57Z"
+      }
+    ],
+   "Entertainment": [
+      {
+        "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+         
+            "title": "John Aprea, 'The Godfather Part II' and 'Full House' actor, dies at 83",
+            "description": "John Aprea, who portrayed a young Salvatore Tessio in 'The Godfather Part II' and the father of John Stamos’ Jesse Katsopolis in 'Full House,' has died. He was 83.",
+            "url": "https://ew.com/john-aprea-dead-full-house-the-godfather-part-ii-actor-was-83-8697133",
+            "urlToImage": "https://ew.com/thmb/s9X-n7YRD4r7hoPvIM_GeOFrhGE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/john-aprea-cedars-event-081824-661672153bb94e57aee1d3071816b80c.jpg",
+            "publishedAt": "2024-08-19T03:37:12.8089041Z"
+      },
+      {
+       "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            
+            "title": "Doja Cat finally locked it down with 'Stranger Things' star Joseph Quinn",
+            "description": "Doja Cat was seen in London with 'Stranger Things' star Joseph Quinn, two years after the Noah Schnapp DM fallout.",
+            "url": "https://ew.com/doja-cat-seen-canoodling-with-stranger-things-star-joseph-quinn-8697149",
+            "urlToImage": "https://ew.com/thmb/8xeFeRw2LWaQoBX58LHG3G-vahY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Doja-cat-oseph-Quin-081824-8cf82ce9bcac4f00ab0f5b37db4f8f3c.jpg",
+            "publishedAt": "2024-08-19T00:37:09.6200353Z"
+      },
+       {
+         "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+           
+            "title": "'Alien: Romulus' takes the top spot from 'Deadpool & Wolverine' after 3 weeks at No. 1",
+            "description": "'Alien: Romulus' dethroned 'Deadpool & Wolverine' after 3 weeks at No. 1, while 'It Ends With Us' is still going strong.",
+            "url": "https://ew.com/alien-romulus-takes-no-1-from-deadpool-and-wolverine-at-box-office-8697146",
+            "urlToImage": "https://ew.com/thmb/1SZGqqQEX2YxgsPxJ1GWJbL5WrI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Cailee-Spaeny-Alien-romulus-tout-072624-4368a694889e431aa95f043247cabefb.jpg",
+            "publishedAt": "2024-08-18T23:52:13.5890798Z"
+      },
+      {
+        "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "Disney’s D23 2024: All the big trailers and news in one place",
+            "description": "Marvel, Star Wars, Pixar, Disney Animation reveal their new movies, tv shows, trailers, and plans for the 2025 and beyond at the Disney version of Comic-Con.",
+            "url": "https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gjRhYaBLPVsrbhRxccvgvne5tdQ=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25566500/D23__The_Ultimate_Disney_Fan_Event_Key_Art.jpg",
+            "publishedAt": "2024-08-10T02:02:15Z"
+      },
+      {
+        "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+           
+            "title": "Robert Downey Jr. is Iron Man again—for Disney’s big Avengers land rides",
+            "description": "He’s Doctor Doom in Marvel movies, but for Marvel’s Avengers Campus, RDJ is back as Tony Stark for Stark Flight Lab and Avengers: Infinity Defense rides.",
+            "url": "https://www.polygon.com/24217880/robert-downey-jr-iron-man-avengers-campus-rides",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/PFEKiuJ8uASyOhkKMoh8p-LmRbs=/377x66:1311x555/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25567657/DLR_Avengers_Campus3_1536x666.jpg",
+            "publishedAt": "2024-08-11T12:18:45Z"
+      },
+      {
+          "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+           
+            "title": "'The Challenge' season 40's Mark Long reacts to 'crappiest' elimination twist",
+            "description": "'The Challenge: Battle of the Eras' cast member Mark Long reacts to season 40's first 8 eliminations, including his Pole Wrestle battle against Derrick Kosinski: 'Crappiest twist ever.'",
+            "url": "https://ew.com/the-challenge-season-40-mark-long-reacts-to-first-8-eliminations-8699650",
+            "urlToImage": "https://ew.com/thmb/qWgKBc-Ew3e5QtdaTIZkdH8-TQM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/mark-the-challenge-082124-7-0f188b43c68f487db8c2c7fc30082199.jpg",
+            "publishedAt": "2024-08-22T02:37:13.9429165Z"
+      },
+      {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+           
+            "title": "Joker 2: Harry Potter, Paddington 2 Actor Brendan Gleeson Joins the Cast - IGN",
+            "description": "Irish actor Brendan Gleeson has joined the cast of Joker: Folie à Deux alongside Joaquin Phoenix and Lady Gaga.",
+            "url": "https://www.ign.com/articles/joker-2-harry-potter-paddington-2-actor-brendan-gleeson-joins-the-cast",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/09/01/gettyimages-1013550984-1662055027618.jpg?width=1280",
+            "publishedAt": "2022-09-01T17:57:23Z"
+        },
+      {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "New 35-minute video from the STALKER 2 team leans into authenticity",
+            "description": "A new STALKER 2 development video shows off more than 35 minutes of gameplay. Authenticity is key, and the final game will include many settings found in the original.",
+            "url": "https://www.polygon.com/24218882/stalker-2-deep-dive-video",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/CybeeyJhk8zDMDxxZDnkh7zrx18=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25569537/vlcsnap_2024_08_12_14h52m59s198.jpg",
+            "publishedAt": "2024-08-12T20:36:23Z"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "Baldur’s Gate 3 just won the biggest award in fantasy and sci-fi",
+            "description": "Larian Studios won a Hugo Award for the writing in Baldur’s Gate 3. It is the second video game to win the literary sci-fi and fantasy award.",
+            "url": "https://www.polygon.com/24218806/baldurs-gate-3-wins-hugo-award",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/T8NOv2aFGvtjxw5G51OH2xUH_yM=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25569405/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.jpg",
+            "publishedAt": "2024-08-12T19:20:45Z"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "Netflix’s new One Piece anime first look shows how hard adaptation is",
+            "description": "Netflix is adapting One Piece into The One Piece with the help of Wit Studio. And the first look at the new anime remake looks promising — and difficult",
+            "url": "https://www.polygon.com/anime/24218850/netflix-one-piece-anime-first-look-behind-scenes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JvS1-vS8Mhw66xVJ0CpWGDWD_0w=/0x39:1280x709/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24827964/One_Piece_season_1.jpg",
+            "publishedAt": "2024-08-12T19:00:31Z"
+        },
+      {
+        "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "New 35-minute video from the STALKER 2 team leans into authenticity",
+            "description": "A new STALKER 2 development video shows off more than 35 minutes of gameplay. Authenticity is key, and the final game will include many settings found in the original.",
+            "url": "https://www.polygon.com/24218882/stalker-2-deep-dive-video",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/CybeeyJhk8zDMDxxZDnkh7zrx18=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25569537/vlcsnap_2024_08_12_14h52m59s198.jpg",
+            "publishedAt": "2024-08-12T20:36:23Z"
+      },
+      {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            
+            "title": "Baldur’s Gate 3 just won the biggest award in fantasy and sci-fi",
+            "description": "Larian Studios won a Hugo Award for the writing in Baldur’s Gate 3. It is the second video game to win the literary sci-fi and fantasy award.",
+            "url": "https://www.polygon.com/24218806/baldurs-gate-3-wins-hugo-award",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/T8NOv2aFGvtjxw5G51OH2xUH_yM=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25569405/ss_b6a6ee6e046426d08ceea7a4506a1b5f44181543.jpg",
+            "publishedAt": "2024-08-12T19:20:45Z"
+      },
+      {
+         "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+           
+            "title": "Netflix’s new One Piece anime first look shows how hard adaptation is",
+            "description": "Netflix is adapting One Piece into The One Piece with the help of Wit Studio. And the first look at the new anime remake looks promising — and difficult",
+            "url": "https://www.polygon.com/anime/24218850/netflix-one-piece-anime-first-look-behind-scenes",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/JvS1-vS8Mhw66xVJ0CpWGDWD_0w=/0x39:1280x709/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24827964/One_Piece_season_1.jpg",
+            "publishedAt": "2024-08-12T19:00:31Z"
+      },
+      {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            
+            "title": "The Dell Intel Gamer Days Sale Starts Now: Big Savings on Alienware Gaming PCs, Laptops, Monitors, and Peripherals - IGN",
+            "description": "Some competitive AMD Ryzen gaming PCs included as well",
+            "url": "https://www.ign.com/articles/dell-intel-gamer-days-sale-starts-now-alienware-gaming-pcs-laptops",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/09/01/alienwarexbox-1662052068009.jpg?width=1280",
+            "publishedAt": "2022-09-01T17:37:12Z"
+        }
+    ],
+    "Sports": [
+      {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            
+            "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+            "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2024-02-29T20:59:30Z"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            
+            "title": "Bedard highlights NHLPA Rookie Showcase",
+            "description": "Connor Bedard, the No. 1 pick in 2023 NHL Draft, took his first strides on the ice in a Chicago Blackhawks jersey on Tuesday.",
+            "url": "https://www.nhl.com/news/connor-bedard-skates-for-1st-time-in-blackhawks-jersey/c-345723964",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345723968/1024x576/cut.jpg",
+            "publishedAt": "2023-09-05T21:17:28Z"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            
+            "title": "Stutzle talks Senators playoff expectations in Q&A with NHL.com",
+            "description": "In NHL.com's Q&A feature called \"Sitting Down with …\" we talk to key figures in the game, gaining insight into their lives on and off the ice. In this special offseason edition, we feature Ottawa Senators forward Tim Stutzle.",
+            "url": "https://www.nhl.com/news/sitting-down-with-tim-stutzle/c-345694484",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345694766/1024x576/cut.jpg",
+            "publishedAt": "2023-09-05T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+           
+            "title": "Necas focused on taking next step with Hurricanes, not contract status",
+            "description": "Martin Necas' focus heading into this season is on building on how he played for the Carolina Hurricanes last season, and not his contract.",
+            "url": "https://www.nhl.com/news/hurricanes-martin-necas-not-focused-on-contract-status/c-345696568",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345697182/1024x576/cut.jpg",
+            "publishedAt": "2023-09-05T04:00:00Z"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+           
+            "title": "Brad Maxwell dies at 66, played 10 seasons in NHL",
+            "description": "Brad Maxwell, a strong presence on the Minnesota North Stars blue line and arguably the team's most creative signing, died on Sunday following a battle with lung cancer that had spread through his body. He was 66.",
+            "url": "https://www.nhl.com/news/former-nhl-defenseman-brad-maxwell-dies-at-66/c-345720764",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345720468/1024x576/cut.jpg",
+            "publishedAt": "2023-09-04T15:02:09Z"
+        },
+        {
+            "source": {
+                "id": "nhl-news",
+                "name": "NHL News"
+            },
+            
+            "title": "Expectations on the rise for Raymond, Red Wings in 2023-24 season",
+            "description": "Lucas Raymond feels he's growing as a player at the same rate the Detroit Red Wings are growing as a team.",
+            "url": "https://www.nhl.com/news/lucas-raymond-expects-detroit-red-wings-to-take-next-step/c-345702040",
+            "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/345702576/1024x576/cut.jpg",
+            "publishedAt": "2023-09-04T04:00:37Z"
+        },
+        {
+        "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+           
+            "title": "Hammon stands firm on denial Las Vegas Aces mistreated Hamby - ESPN",
+            "description": "Las Vegas Aces coach Becky Hammon reiterated on Sunday what she has said previously about former player Dearica Hamby's trade to Los Angeles in January 2023, standing firm on denying that the Aces mistreated Hamby or traded her because she was pregnant.",
+            "url": "https://www.espn.com/wnba/story/_/id/40912431/hammon-stands-firm-denial-las-vegas-aces-mistreated-hamby",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0819%2Fr1375151_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-19T03:57:00Z"
+      },
+      {
+         "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+           
+            "title": "Fever's Caitlin Clark breaks WNBA rookie record for assists - ESPN",
+            "description": "Caitlin Clark's 9 assists Sunday upped her single-season total to 232, breaking the previous WNBA rookie record of 224 set by Ticha Penicheiro in 1998.",
+            "url": "https://www.espn.com/wnba/story/_/id/40910369/fever-caitlin-clark-breaks-wnba-single-season-rookie-record-assists-win-storm",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0818%2Fr1375064_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-18T23:45:00Z"
+      },
+       {
+          "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            
+            "title": "Boise State names Maddux Madsen starting QB, sources say - ESPN",
+            "description": "Boise State named redshirt sophomore quarterback Maddux Madsen -- a veteran signal caller with 10 games across his prior two seasons as a Bronco -- the starting quarterback for the opener against Georgia Southern, sources told ESPN on Sunday night.",
+            "url": "https://www.espn.com/college-football/story/_/id/40910395/boise-state-names-maddux-madsen-starting-qb-sources-say",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0818%2Fr1375079_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-08-18T23:43:00Z"
+      },
+      {
+        "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            
+            "title": "Post-Ohtani Plans for Blue Jays, Giants, Cubs and Angels to Win MLB Offseason",
+            "description": "It's not too late for the Blue Jays, Giants, Cubs and Angels to save their offseasons.",
+            "url": "https://bleacherreport.com/articles/10100906-post-ohtani-plans-for-blue-jays-giants-cubs-and-angels-to-win-mlb-offseason",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702417033/x35mtatjqy0yeg7y0ymq.jpg",
+            "publishedAt": "2023-12-13T12:00:00Z"
+      },
+      {
+          "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+           
+            "title": "Ranking the Backup Quarterbacks Who Could Lead a 2024 NFL Playoff Run",
+            "description": "The importance of having a good backup quarterback has never been more evident than in 2023. It's been a rough year for starting quarterbacks around the…",
+            "url": "https://bleacherreport.com/articles/10100861-ranking-the-backup-quarterbacks-who-could-lead-a-2024-nfl-playoff-run",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/x_0,y_226,w_1800,h_1199,c_crop/c_fill,g_faces,w_3800,h_2000,q_95/v1702427520/b30za36wsgtplsop9glz.jpg",
+            "publishedAt": "2023-12-13T12:00:00Z"
+      },
+      {
+         "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            
+            "title": "Ranking Fringe NFL Playoff Contenders Most Likely to Get into 2023 Postseason",
+            "description": "The NFL playoff races have become dueling circuses. At the moment, only three NFL teams sit more than two games removed from a playoff position. Three…",
+            "url": "https://bleacherreport.com/articles/10100873-ranking-fringe-nfl-playoff-contenders-most-likely-to-get-into-2023-postseason",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702443360/sfz8cowoepjxdzwpifia.jpg",
+            "publishedAt": "2023-12-13T12:00:00Z"
+      },
+      {
+           "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            
+            "title": "Manchester United players ‘not at the races’ and ex-Liverpool star tells Red Devils to sign four Premier Le...",
+            "description": "Manchester United’s players have been criticised for not consistently giving their all. That comes from former Liverpool striker Dean Saunders who has also named four stars that the Premier L…",
+            "url": "https://talksport.com/football/1810263/manchester-united-transfer-news-ivan-toney-kaoru-mitoma/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/04/LB-comp-TENHAG-TONEY-copy.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2024-04-01T21:28:16Z"
+      },
+      {
+          "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+           
+            "title": "Plymouth sack Ian Foster just three months after leaving role as Steven Gerrard’s no.2...",
+            "description": "Ian Foster has been sacked as Plymouth Argyle boss less than three months after taking the role, the club have confirmed. Neil Warnock was among the names being considered as his replacement, howev…",
+            "url": "https://talksport.com/football/1810489/neil-warnock-plymouth-ian-foster-steven-gerrard/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/04/ian-foster-manager-plymouth-argyle-891046633.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-04-01T20:30:02Z"
+      },
+      {
+         "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            
+            "title": "Ipswich produce a ‘huge haymaker knockout’ with injury-time winner to leapfrog Leicester to go top...",
+            "description": "Ipswich reclaimed top spot in the Championship with a knockout of a late goal. The Tractorboys were facing Southampton on Easter Monday in an automatic promotion six-pointer in a contest that did n…",
+            "url": "https://talksport.com/football/1810466/ipswich-haymaker-knockout-leicester-promotion-race/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/04/jeremy-sarmiento-ipswich-town-celebrates-891064292.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2024-04-01T19:09:27Z"
+      }
+    ],
+    "Science": [
+      {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+           
+            "title": "Understanding Why Mole Rats Live Five Times Longer Than Expected | NextBigFuture.com",
+            "description": "The mole rat lives about 37 years which is about five times longer than expected for an animal of its size and type. Researchers at the Queen Mary University",
+            "url": "https://www.nextbigfuture.com/2024/03/understanding-why-mole-rats-live-five-times-longer-than-expected.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-27-at-11.50.55-AM.jpg",
+            "publishedAt": "2024-03-27T18:58:15Z"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Vera Rubin Telescope Could Detect Mars, Mercury And Pluto Sized Planets from 2025-2035 | NextBigFuture.com",
+            "description": "Researchers estimate that the number of captured free-floating planets in the outer solar system with mass strictly greater than that of Mars is ∼1.2 and that",
+            "url": "https://www.nextbigfuture.com/2024/03/vera-rubin-telescope-could-detect-mars-mercury-and-pluto-sized-planets-from-2025-2035.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-11.25.24-PM.jpg",
+            "publishedAt": "2024-03-27T06:27:05Z"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "2027 Space Telescope Could Find 400 Rogue Planets | NextBigFuture.com",
+            "description": "Nancy Grace Roman Space Telescope will be sensitive to even lower-mass rogue planets since it will observe from space. It will have wide field of view and",
+            "url": "https://www.nextbigfuture.com/2024/03/2027-space-telescope-could-find-400-rogue-planets.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/nancygraceroman.jpeg",
+            "publishedAt": "2024-03-27T06:05:25Z"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Ultraviolet Metalenses Mass Produced. Will Enable Future AI Chips | NextBigFuture.com",
+            "description": "Extreme Ultraviolet lithography for computer chips have been critical to letting us efficiently get better than 14 nanometer computer chips. Metalenses are",
+            "url": "https://www.nextbigfuture.com/2024/03/ultraviolet-metalenses-mass-produced-will-enable-future-ai-chips.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-1.11.17-PM.jpg",
+            "publishedAt": "2024-03-26T20:15:21Z"
+        },
+        {
+       "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+           
+            "title": "How these feuding map-makers shaped our fascination with Mars",
+            "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+            "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+            "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+            "publishedAt": "2021-02-17T14:37:21.3706142Z"
+      },
+       {
+            "source": {
+                "id": "national-geographic",
+                "name": "National Geographic"
+            },
+            
+            "title": "3-ton parts of Stonehenge may have been carried from earlier monuments",
+            "description": "Years of archaeological research now suggest that Neolithic Britons lugged massive elements of the iconic monument from far-flung reaches of the island.",
+            "url": "https://www.nationalgeographic.com/history/2021/02/3-ton-parts-stonehenge-may-carried-from-earlier-monuments.html",
+            "urlToImage": "https://www.nationalgeographic.com/content/dam/archaeologyandhistory/2021/02/stonehenge-waun-mawn/05-waun-mawn-stonehenge.jpg",
+            "publishedAt": "2021-02-17T14:37:24.3386254Z"
+        },
+      {
+        "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Static Fire Shows SpaceX Tracking to Flight 4 Launch in About 5 Weeks | NextBigFuture.com",
+            "description": "SpaceX has a full duration static fire of six Raptor engines. Flight 4 Starship is on track for another orbital launch in about 5 weeks.",
+            "url": "https://www.nextbigfuture.com/2024/03/static-fire-shows-spacex-tracking-to-flight-4-launch-in-about-5-weeks.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-11.44.17-AM.jpg",
+            "publishedAt": "2024-03-26T18:46:38Z"
+      },
+       {
+         "source": {
+                "id": "new-scientist",
+                "name": "New Scientist"
+            },
+            
+            "title": "High-tech research ship ready to seek new life at hydrothermal vents",
+            "description": "The Falkor (too), a 100-metre, state-of-the-art research vessel, is scheduled to set sail on 3 March to look for hydrothermal vents and undiscovered organisms, potentially shedding light on how life may have arisen on other planets",
+            "url": "https://www.newscientist.com/article/2361810-high-tech-research-ship-ready-to-seek-new-life-at-hydrothermal-vents/",
+            "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28142658/SEI_146075053.jpg",
+            "publishedAt": "2023-03-01T00:00:00Z"
+      },
+     
+      {
+        "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Vera Rubin Telescope Could Detect Mars, Mercury And Pluto Sized Planets from 2025-2035 | NextBigFuture.com",
+            "description": "Researchers estimate that the number of captured free-floating planets in the outer solar system with mass strictly greater than that of Mars is ∼1.2 and that",
+            "url": "https://www.nextbigfuture.com/2024/03/vera-rubin-telescope-could-detect-mars-mercury-and-pluto-sized-planets-from-2025-2035.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-11.25.24-PM.jpg",
+            "publishedAt": "2024-03-27T06:27:05Z"
+      },
+      {
+         "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+           
+            "title": "2027 Space Telescope Could Find 400 Rogue Planets | NextBigFuture.com",
+            "description": "Nancy Grace Roman Space Telescope will be sensitive to even lower-mass rogue planets since it will observe from space. It will have wide field of view and",
+            "url": "https://www.nextbigfuture.com/2024/03/2027-space-telescope-could-find-400-rogue-planets.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/nancygraceroman.jpeg",
+            "publishedAt": "2024-03-27T06:05:25Z"
+      },
+      {
+          "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Ultraviolet Metalenses Mass Produced. Will Enable Future AI Chips | NextBigFuture.com",
+            "description": "Extreme Ultraviolet lithography for computer chips have been critical to letting us efficiently get better than 14 nanometer computer chips. Metalenses are",
+            "url": "https://www.nextbigfuture.com/2024/03/ultraviolet-metalenses-mass-produced-will-enable-future-ai-chips.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-1.11.17-PM.jpg",
+            "publishedAt": "2024-03-26T20:15:21Z"
+      },
+      {
+        "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Blackrock Will Suggest Working Til You Nearly Drop Instead of 65 | NextBigFuture.com",
+            "description": "Blackrock CEO Larry Fink pushes getting rid of 65 year old retirement age as part of Social Security Reform.",
+            "url": "https://www.nextbigfuture.com/2024/03/blackrock-will-suggest-working-til-you-nearly-drop-instead-of-65.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-1.03.48-PM.jpg",
+            "publishedAt": "2024-03-26T20:06:25Z"
+      },
+      {
+         "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "AI Can Now Forget Copyrighted and Other Material | NextBigFuture.com",
+            "description": "Researchers at The University of Texas at Austin have developed what they believe is the first machine unlearning method applied to image-based generative AI.",
+            "url": "https://www.nextbigfuture.com/2024/03/ai-can-now-forget-copyrighted-and-other-material.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-11.53.45-AM.jpg",
+            "publishedAt": "2024-03-26T18:54:34Z"
+      },
+      {
+         "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            
+            "title": "Superconducting Magnet Reduces the Cost for a Fusion Reactor by a Factor of 40 | NextBigFuture.com",
+            "description": "A new 20 Tesla Superconducting magnet reduces the cost per watt of a fusion reactor by a factor of almost 40. MIT worked with Commonwealth Fusion Systems, a",
+            "url": "https://www.nextbigfuture.com/2024/03/superconducting-magnet-reduces-the-cost-for-a-fusion-reactor-by-a-factor-of-40.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-26-at-12.26.59-PM.jpg",
+            "publishedAt": "2024-03-26T19:28:51Z"
+      }
+    ]
+    
+    
+  }
+}
